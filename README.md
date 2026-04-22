@@ -17,6 +17,8 @@ In the near future, most services will be consumed by agents, not people. Organi
 
 | Date | Event | Topic |
 |------|-------|-------|
+| Jun 2026 | [RTR / KommAustria: Alte Stärken, neue Mächte](https://www.rtr.at), Vienna | Agentic AI and the Future of Infrastructure (Keynote) |
+| Jun 2026 | [FFG / TAFTIE Networking Workshop](https://taftie.eu/academy-2/), Vienna | The AI-Beer Nvidia Use Case: AI Disrupting Innovation Agency's Business Model? (Keynote) |
 | Apr 2026 | [Sourcing International Frühlingsforum 2026](https://sourcing-international.org/events/fruhlingsforum-2026), Vienna | Wie Agenten schon heute Organisationen verändern |
 | Mar 2026 | [Strategie Austria](https://www.strategieaustria.at/events/ki-arbeitsalltag-jetzt-wirds-ernst), Vienna | AI and the Future of Work (Keynote + Panel) |
 | Mar 2026 | [NVIDIA GTC 2026](https://www.nvidia.com/en-us/on-demand/session/gtc26-s81595/), San Jose | AI agents in real world value chains |
