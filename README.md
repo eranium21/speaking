@@ -22,7 +22,7 @@ In the near future, most services will be consumed by agents, not people. Organi
 | Jun 2026 | [FFG / TAFTIE Networking Workshop](https://taftie.eu/academy-2/), Vienna | The AI-Beer Nvidia Use Case: AI Disrupting Innovation Agency's Business Model? (Keynote) |
 | May 2026 | [DDIM Operations-KI Gruppe](https://ddim.de), Online | Frontira Presentation |
 | May 2026 | [ClawCon #2 ViennaUP Edition](https://viennaup.flave.world/user/events/clawcon-3-viennaup-edition/edit), Vienna | Lightning Talk (Speaker) |
-| May 2026 | [TokenMade](https://tokenmade.ai), Hamburg | Live Demo (Speaker, eve of OMR Festival) |
+| May 2026 | [TokenMade](https://tokenmade.ai), Hamburg | Live Demo (Winner, eve of OMR Festival) |
 | Apr 2026 | [Austrian Leading Sights Workshop](https://www.austrianleadingsights.at), Familypark St. Margarethen | AI and Agentic Systems for Tourism (Workshop) |
 | Apr 2026 | [Sourcing International Frühlingsforum 2026](https://sourcing-international.org/events/fruhlingsforum-2026), Vienna | Wie Agenten schon heute Organisationen verändern |
 | Mar 2026 | [Strategie Austria](https://www.strategieaustria.at/events/ki-arbeitsalltag-jetzt-wirds-ernst), Vienna | AI and the Future of Work (Keynote + Panel) |
