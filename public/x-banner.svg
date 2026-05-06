@@ -1,0 +1,127 @@
+<svg width="1500" height="500" viewBox="0 0 1500 500" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="1500" height="500" fill="#1B2A3E"/>
+
+  <!-- Subtle grid/texture lines -->
+  <line x1="0" y1="490" x2="1500" y2="490" stroke="#263A52" stroke-width="1"/>
+  <line x1="0" y1="10" x2="1500" y2="10" stroke="#263A52" stroke-width="1"/>
+
+  <!-- Left decorative dots -->
+  <circle cx="60" cy="250" r="2" fill="#CF4B3A" opacity="0.3"/>
+  <circle cx="80" cy="250" r="2" fill="#CF4B3A" opacity="0.3"/>
+
+  <!-- Right decorative dots -->
+  <circle cx="1420" cy="250" r="2" fill="#CF4B3A" opacity="0.3"/>
+  <circle cx="1440" cy="250" r="2" fill="#CF4B3A" opacity="0.3"/>
+
+  <!-- ===== Gerhard portrait (left, scaled and centered) ===== -->
+  <g transform="translate(280, 60) scale(1.6)">
+    <!-- Background circle -->
+    <circle cx="100" cy="120" r="96" fill="#263A52" opacity="0.2"/>
+    <!-- Body / Jacket -->
+    <path d="M40 240 C40 190 60 175 100 170 C140 175 160 190 160 240" fill="#CF4B3A"/>
+    <path d="M75 175 L100 195 L125 175" fill="none" stroke="#B53D2F" stroke-width="3" stroke-linecap="round"/>
+    <line x1="100" y1="195" x2="100" y2="240" stroke="#B53D2F" stroke-width="2"/>
+    <path d="M40 240 C40 200 55 185 75 178 L65 240 Z" fill="#6B7280" opacity="0.3"/>
+    <path d="M160 240 C160 200 145 185 125 178 L135 240 Z" fill="#6B7280" opacity="0.3"/>
+    <!-- Neck -->
+    <rect x="88" y="155" width="24" height="22" rx="8" fill="#E8B89D"/>
+    <!-- Head -->
+    <ellipse cx="100" cy="110" rx="52" ry="56" fill="#E8B89D"/>
+    <ellipse cx="96" cy="72" rx="30" ry="16" fill="#F0C9AD" opacity="0.5"/>
+    <!-- Ears -->
+    <ellipse cx="48" cy="115" rx="10" ry="14" fill="#E0A88A"/>
+    <ellipse cx="152" cy="115" rx="10" ry="14" fill="#E0A88A"/>
+    <!-- Sunglasses -->
+    <path d="M85 108 Q100 112 115 108" fill="none" stroke="#1B2A3E" stroke-width="3" stroke-linecap="round"/>
+    <rect x="58" y="98" width="30" height="22" rx="6" fill="#CF4B3A" opacity="0.85"/>
+    <rect x="58" y="98" width="30" height="22" rx="6" fill="none" stroke="#1B2A3E" stroke-width="2.5"/>
+    <rect x="112" y="98" width="30" height="22" rx="6" fill="#CF4B3A" opacity="0.85"/>
+    <rect x="112" y="98" width="30" height="22" rx="6" fill="none" stroke="#1B2A3E" stroke-width="2.5"/>
+    <line x1="48" y1="108" x2="58" y2="108" stroke="#1B2A3E" stroke-width="2.5" stroke-linecap="round"/>
+    <line x1="142" y1="108" x2="152" y2="108" stroke="#1B2A3E" stroke-width="2.5" stroke-linecap="round"/>
+    <rect x="62" y="101" width="8" height="4" rx="2" fill="white" opacity="0.3"/>
+    <rect x="116" y="101" width="8" height="4" rx="2" fill="white" opacity="0.3"/>
+    <!-- Smile -->
+    <path d="M80 132 Q100 148 120 132" fill="none" stroke="#1B2A3E" stroke-width="2.5" stroke-linecap="round"/>
+    <!-- Cheeks -->
+    <circle cx="72" cy="128" r="8" fill="#E87068" opacity="0.25"/>
+    <circle cx="128" cy="128" r="8" fill="#E87068" opacity="0.25"/>
+    <!-- Nose -->
+    <path d="M98 118 Q100 126 104 122" fill="none" stroke="#D4A088" stroke-width="2" stroke-linecap="round"/>
+    <!-- Eyebrows -->
+    <path d="M62 92 Q73 87 88 92" fill="none" stroke="#C49478" stroke-width="2" stroke-linecap="round"/>
+    <path d="M112 92 Q127 87 138 92" fill="none" stroke="#C49478" stroke-width="2" stroke-linecap="round"/>
+  </g>
+
+  <!-- Gerhard label -->
+  <text x="440" y="470" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif" font-size="16" font-weight="600" fill="white" opacity="0.4" letter-spacing="3">GERHARD</text>
+
+  <!-- ===== Center: Logo text ===== -->
+  <text x="750" y="210" text-anchor="middle" font-family="system-ui, -apple-system, Arial, sans-serif" font-weight="900" font-size="72" fill="white" letter-spacing="4">LOBSTER LAGER</text>
+
+  <!-- Divider line -->
+  <line x1="650" y1="235" x2="850" y2="235" stroke="#CF4B3A" stroke-width="3" stroke-linecap="round"/>
+
+  <!-- Tagline -->
+  <text x="750" y="275" text-anchor="middle" font-family="system-ui, -apple-system, Arial, sans-serif" font-size="22" fill="#CF4B3A" font-style="italic">Hold my claw.</text>
+
+  <!-- Subtitle -->
+  <text x="750" y="320" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif" font-size="16" fill="white" opacity="0.4" letter-spacing="4">AI-BREWED AMBER LAGER · BATCH #001</text>
+
+  <!-- ===== OpenClaw portrait (right, scaled and centered) ===== -->
+  <g transform="translate(960, 85) scale(1.55)">
+    <!-- Background circle -->
+    <circle cx="100" cy="100" r="96" fill="#263A52" opacity="0.2"/>
+    <!-- Body -->
+    <ellipse cx="100" cy="145" rx="35" ry="42" fill="#CF4B3A"/>
+    <path d="M70 140 Q100 136 130 140" fill="none" stroke="#B53D2F" stroke-width="1.5" opacity="0.5"/>
+    <path d="M68 155 Q100 151 132 155" fill="none" stroke="#B53D2F" stroke-width="1.5" opacity="0.5"/>
+    <path d="M72 170 Q100 166 128 170" fill="none" stroke="#B53D2F" stroke-width="1.5" opacity="0.5"/>
+    <!-- Tail fan -->
+    <path d="M80 185 L68 198 L84 192 Z" fill="#D96858"/>
+    <path d="M100 188 L100 200 L108 195 Z" fill="#D96858"/>
+    <path d="M120 185 L132 198 L116 192 Z" fill="#D96858"/>
+    <!-- Head -->
+    <ellipse cx="100" cy="88" rx="42" ry="40" fill="#CF4B3A"/>
+    <ellipse cx="96" cy="65" rx="22" ry="12" fill="#D96858" opacity="0.4"/>
+    <!-- Antennae -->
+    <path d="M80 55 Q65 25 48 14" fill="none" stroke="#CF4B3A" stroke-width="3" stroke-linecap="round"/>
+    <path d="M120 55 Q135 25 152 14" fill="none" stroke="#CF4B3A" stroke-width="3" stroke-linecap="round"/>
+    <circle cx="48" cy="14" r="4" fill="#D96858"/>
+    <circle cx="152" cy="14" r="4" fill="#D96858"/>
+    <path d="M84 58 Q76 42 70 36" fill="none" stroke="#CF4B3A" stroke-width="2" stroke-linecap="round"/>
+    <path d="M116 58 Q124 42 130 36" fill="none" stroke="#CF4B3A" stroke-width="2" stroke-linecap="round"/>
+    <!-- Claws -->
+    <path d="M58 120 Q32 108 22 92" fill="none" stroke="#CF4B3A" stroke-width="6" stroke-linecap="round"/>
+    <path d="M22 92 Q14 78 20 72" fill="none" stroke="#CF4B3A" stroke-width="5" stroke-linecap="round"/>
+    <path d="M22 92 Q30 80 26 72" fill="none" stroke="#CF4B3A" stroke-width="5" stroke-linecap="round"/>
+    <path d="M142 120 Q168 108 178 92" fill="none" stroke="#CF4B3A" stroke-width="6" stroke-linecap="round"/>
+    <path d="M178 92 Q186 78 180 72" fill="none" stroke="#CF4B3A" stroke-width="5" stroke-linecap="round"/>
+    <path d="M178 92 Q170 80 174 72" fill="none" stroke="#CF4B3A" stroke-width="5" stroke-linecap="round"/>
+    <!-- Sunglasses -->
+    <path d="M84 84 Q100 88 116 84" fill="none" stroke="#1B2A3E" stroke-width="3" stroke-linecap="round"/>
+    <rect x="60" y="74" width="26" height="20" rx="6" fill="#1B2A3E" opacity="0.9"/>
+    <rect x="60" y="74" width="26" height="20" rx="6" fill="none" stroke="#1B2A3E" stroke-width="2.5"/>
+    <rect x="114" y="74" width="26" height="20" rx="6" fill="#1B2A3E" opacity="0.9"/>
+    <rect x="114" y="74" width="26" height="20" rx="6" fill="none" stroke="#1B2A3E" stroke-width="2.5"/>
+    <rect x="64" y="77" width="7" height="4" rx="2" fill="white" opacity="0.3"/>
+    <rect x="118" y="77" width="7" height="4" rx="2" fill="white" opacity="0.3"/>
+    <!-- Smile -->
+    <path d="M82 106 Q100 118 118 106" fill="none" stroke="#1B2A3E" stroke-width="2.5" stroke-linecap="round"/>
+    <!-- Cheeks -->
+    <circle cx="74" cy="102" r="6" fill="#E87068" opacity="0.3"/>
+    <circle cx="126" cy="102" r="6" fill="#E87068" opacity="0.3"/>
+    <!-- Legs -->
+    <line x1="70" y1="148" x2="54" y2="156" stroke="#B53D2F" stroke-width="2.5" stroke-linecap="round"/>
+    <line x1="72" y1="162" x2="56" y2="168" stroke="#B53D2F" stroke-width="2.5" stroke-linecap="round"/>
+    <line x1="130" y1="148" x2="146" y2="156" stroke="#B53D2F" stroke-width="2.5" stroke-linecap="round"/>
+    <line x1="128" y1="162" x2="144" y2="168" stroke="#B53D2F" stroke-width="2.5" stroke-linecap="round"/>
+  </g>
+
+  <!-- OpenClaw label -->
+  <text x="1115" y="470" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif" font-size="16" font-weight="600" fill="white" opacity="0.4" letter-spacing="3">OPENCLAW</text>
+
+  <!-- "×" between names -->
+  <text x="750" y="470" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif" font-size="20" fill="#CF4B3A" opacity="0.6">×</text>
+</svg>
