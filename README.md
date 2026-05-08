@@ -18,6 +18,7 @@ In the near future, most services will be consumed by agents, not people. Organi
 | Date | Event | Topic |
 |------|-------|-------|
 | Nov 2026 | [Sourcing International Circle of Excellence](https://sourcing-international.org), Vienna | Frontira x Sourcing International (agenda tbd) |
+| Jun 2026 | Cloud-Community Public-Administration #6, Vienna | Der Weg zur agentischen Organisation (with T. Höllwarth, Sourcing International) |
 | Jun 2026 | [RTR / KommAustria: Alte Stärken, neue Mächte](https://www.rtr.at), Vienna | Agentic AI and the Future of Infrastructure (Keynote) |
 | Jun 2026 | [FFG / TAFTIE Networking Workshop](https://taftie.eu/academy-2/), Vienna | The AI-Beer Nvidia Use Case: AI Disrupting Innovation Agency's Business Model? (Keynote) |
 | May 2026 | [ÖW Talk Folge 20](https://www.youtube.com/watch?v=URz87pILmBk) | Bier, KI und eine Nvidia Keynote (Interview with Astrid Steharnig-Staudinger, CEO Österreich Werbung) |
