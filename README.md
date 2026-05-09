@@ -10,6 +10,9 @@ Humans and AI agents working side by side in daily delivery. How tasks, communic
 **Agentic Business Engineering**
 Agents are not just rewriting code, they are rewriting org charts. How agentic systems change the way organisations are designed, how work is funded, and where competitive advantage actually lives.
 
+**Agentic Business Transformation**
+Stop renting AI. Start owning it. How organisations close the gap between using AI and building with AI. A technology stack, a governance model, and citizen engineers who ship real agents into production. The companies that build this capability now will compound advantages the rest can never catch.
+
 **Service as an API: Building for an Agent-First World**
 In the near future, most services will be consumed by agents, not people. Organisations that turn what they do into programmable interfaces will thrive. The rest will become invisible.
 
