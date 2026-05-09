@@ -18,8 +18,8 @@ In the near future, most services will be consumed by agents, not people. Organi
 | Date | Event | Topic |
 |------|-------|-------|
 | 25 Nov 2026 | [Sourcing International Circle of Excellence](https://sourcing-international.org), Vienna | Frontira x Sourcing International (agenda tbd) |
-| Jun 2026 | [RTR / KommAustria: Alte Stärken, neue Mächte](https://www.rtr.at), Vienna | Agentic AI and the Future of Infrastructure (Keynote) |
-| Jun 2026 | [FFG / TAFTIE Networking Workshop](https://taftie.eu/academy-2/), Vienna | The AI-Beer Nvidia Use Case: AI Disrupting Innovation Agency's Business Model? (Keynote) |
+| 9 Jun 2026 | [RTR / KommAustria: Alte Stärken, neue Mächte](https://www.rtr.at), Vienna | Agentic AI and the Future of Infrastructure (Keynote) |
+| 3 Jun 2026 | [FFG / TAFTIE Networking Workshop](https://taftie.eu/academy-2/), Vienna | The AI-Beer Nvidia Use Case: AI Disrupting Innovation Agency's Business Model? (Keynote) |
 | 11 Jun 2026 | Cloud-Community Public-Administration #6, Vienna | Der Weg zur agentischen Organisation (with T. Höllwarth, Sourcing International) |
 | 22 May 2026 | [Creative Catalyst Aperture](https://viennaup.com), Vienna | Speaker + Mentoring Session (MuseumsQuartier, ViennaUP) |
 | 21 May 2026 | [ClawCon #2 ViennaUP Edition](https://viennaup.com), Vienna | Lightning Talk (Speaker, Prisma by Lumia) |
@@ -30,7 +30,7 @@ In the near future, most services will be consumed by agents, not people. Organi
 |------|-------|-------|
 | 6 May 2026 | [DDIM Operations-KI Gruppe](https://ddim.de), Online | Frontira Presentation |
 | 4 May 2026 | [TokenMade](https://tokenmade.ai), Hamburg | Live Demo (Winner, eve of OMR Festival) |
-| Apr 2026 | [Austrian Leading Sights Workshop](https://www.austrianleadingsights.at), Familypark St. Margarethen | AI and Agentic Systems for Tourism (Workshop) |
+| 22 Apr 2026 | [Austrian Leading Sights Workshop](https://www.austrianleadingsights.at), Familypark St. Margarethen | AI and Agentic Systems for Tourism (Workshop) |
 | 23 Apr 2026 | [Sourcing International Frühlingsforum 2026](https://sourcing-international.org/events/fruhlingsforum-2026), Vienna | Wie Agenten schon heute Organisationen verändern |
 | 26 Mar 2026 | [Strategie Austria](https://www.strategieaustria.at/events/ki-arbeitsalltag-jetzt-wirds-ernst), Vienna | AI and the Future of Work (Keynote + Panel) |
 | 18 Mar 2026 | [NVIDIA GTC 2026](https://www.nvidia.com/en-us/on-demand/session/gtc26-s81595/), San Jose | AI agents in real world value chains |
