@@ -13,24 +13,29 @@ Agents are not just rewriting code, they are rewriting org charts. How agentic s
 **Service as an API: Building for an Agent-First World**
 In the near future, most services will be consumed by agents, not people. Organisations that turn what they do into programmable interfaces will thrive. The rest will become invisible.
 
-## Talks, Panels, and Appearances
+## Upcoming
 
 | Date | Event | Topic |
 |------|-------|-------|
 | Nov 2026 | [Sourcing International Circle of Excellence](https://sourcing-international.org), Vienna | Frontira x Sourcing International (agenda tbd) |
-| Jun 2026 | Cloud-Community Public-Administration #6, Vienna | Der Weg zur agentischen Organisation (with T. Höllwarth, Sourcing International) |
 | Jun 2026 | [RTR / KommAustria: Alte Stärken, neue Mächte](https://www.rtr.at), Vienna | Agentic AI and the Future of Infrastructure (Keynote) |
 | Jun 2026 | [FFG / TAFTIE Networking Workshop](https://taftie.eu/academy-2/), Vienna | The AI-Beer Nvidia Use Case: AI Disrupting Innovation Agency's Business Model? (Keynote) |
-| May 2026 | [DDIM Operations-KI Gruppe](https://ddim.de), Online | Frontira Presentation |
-| May 2026 | [Creative Catalyst Aperture](https://viennaup.com), Vienna | Speaker + Mentoring Session (MuseumsQuartier, ViennaUP) |
-| May 2026 | [ClawCon #2 ViennaUP Edition](https://viennaup.com), Vienna | Lightning Talk (Speaker, Prisma by Lumia) |
-| May 2026 | [TokenMade](https://tokenmade.ai), Hamburg | Live Demo (Winner, eve of OMR Festival) |
+| 11 Jun 2026 | Cloud-Community Public-Administration #6, Vienna | Der Weg zur agentischen Organisation (with T. Höllwarth, Sourcing International) |
+| 22 May 2026 | [Creative Catalyst Aperture](https://viennaup.com), Vienna | Speaker + Mentoring Session (MuseumsQuartier, ViennaUP) |
+| 21 May 2026 | [ClawCon #2 ViennaUP Edition](https://viennaup.com), Vienna | Lightning Talk (Speaker, Prisma by Lumia) |
+
+## Past
+
+| Date | Event | Topic |
+|------|-------|-------|
+| 6 May 2026 | [DDIM Operations-KI Gruppe](https://ddim.de), Online | Frontira Presentation |
+| 4 May 2026 | [TokenMade](https://tokenmade.ai), Hamburg | Live Demo (Winner, eve of OMR Festival) |
 | Apr 2026 | [Austrian Leading Sights Workshop](https://www.austrianleadingsights.at), Familypark St. Margarethen | AI and Agentic Systems for Tourism (Workshop) |
 | Apr 2026 | [Sourcing International Frühlingsforum 2026](https://sourcing-international.org/events/fruhlingsforum-2026), Vienna | Wie Agenten schon heute Organisationen verändern |
-| Mar 2026 | [Strategie Austria](https://www.strategieaustria.at/events/ki-arbeitsalltag-jetzt-wirds-ernst), Vienna | AI and the Future of Work (Keynote + Panel) |
-| Mar 2026 | [NVIDIA GTC 2026](https://www.nvidia.com/en-us/on-demand/session/gtc26-s81595/), San Jose | AI agents in real world value chains |
-| Jan 2026 | [ClawCon Vienna](https://openclaws.io/blog/clawcon-vienna) | Agentic AI beyond the terminal |
-| Sep 2025 | [DDIM.regional München](https://ddim.de/events/ddim-regional-muenchen-11-september-2025/), Munich | KI & Automatisierung: Vom Hype zum Impact (with Dr. Torsten Pedit, Salzwelten) |
+| 26 Mar 2026 | [Strategie Austria](https://www.strategieaustria.at/events/ki-arbeitsalltag-jetzt-wirds-ernst), Vienna | AI and the Future of Work (Keynote + Panel) |
+| 18 Mar 2026 | [NVIDIA GTC 2026](https://www.nvidia.com/en-us/on-demand/session/gtc26-s81595/), San Jose | AI agents in real world value chains |
+| 30 Jan 2026 | [ClawCon Vienna](https://openclaws.io/blog/clawcon-vienna) | Agentic AI beyond the terminal |
+| 11 Sep 2025 | [DDIM.regional München](https://ddim.de/events/ddim-regional-muenchen-11-september-2025/), Munich | KI & Automatisierung: Vom Hype zum Impact (with Dr. Torsten Pedit, Salzwelten) |
 | May 2015 | ADC Young Talents Congress, Hamburg | Creative Opportunities Beyond Advertising |
 | Feb 2013 | Account Planning Group Germany, Google Berlin | Customer Development: What Strategic Planning Can Learn from Startups |
 | May 2012 | NEXT Conference, Berlin | Looking East (Panel) |
