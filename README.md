@@ -21,9 +21,10 @@ In the near future, most services will be consumed by agents, not people. Organi
 | Date | Event | Topic |
 |------|-------|-------|
 | 25 Nov 2026 | [Sourcing International Circle of Excellence](https://sourcing-international.org), Vienna | Frontira x Sourcing International (agenda tbd) |
+| 17 Jun 2026 | [LSZ IT Leaders Experience](https://lsz.at/kongress/it-leaders-experience-waidhofen), Waidhofen an der Ybbs | Vom Prompt zum Agenten: Wie AI neue Umsetzungskapazität in Unternehmen schafft (Workshop with Tobias Höllwarth) |
+| 11 Jun 2026 | Cloud-Community Public-Administration #6, Vienna | Der Weg zur agentischen Organisation (with T. Höllwarth, Sourcing International) |
 | 9 Jun 2026 | [RTR / KommAustria: Alte Stärken, neue Mächte](https://www.rtr.at), Vienna | Agentic AI and the Future of Infrastructure (Keynote) |
 | 3 Jun 2026 | [FFG / TAFTIE Networking Workshop](https://taftie.eu/academy-2/), Vienna | The AI-Beer Nvidia Use Case: AI Disrupting Innovation Agency's Business Model? (Keynote) |
-| 11 Jun 2026 | Cloud-Community Public-Administration #6, Vienna | Der Weg zur agentischen Organisation (with T. Höllwarth, Sourcing International) |
 | 22 May 2026 | [Creative Catalyst Aperture](https://viennaup.com), Vienna | Speaker + Mentoring Session (MuseumsQuartier, ViennaUP) |
 | 21 May 2026 | [ClawCon #2 ViennaUP Edition](https://viennaup.com), Vienna | Lightning Talk (Speaker, Prisma by Lumia) |
 
