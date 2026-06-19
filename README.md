@@ -2,6 +2,11 @@
 
 I work at the intersection of AI, automation, and organisational design. At Frontira, my team and I build agentic systems for clients across Europe and advise leadership teams on what changes when agents become part of the workforce.
 
+## Signature Keynote
+
+**Lobster Lager: When AI Agents Leave the Chat Window**
+A father-and-son keynote about the AI-brewed beer that reached NVIDIA GTC, TED, and 30+ international media outlets, and what it teaches about Agentic Business Engineering.
+
 ## Topics
 
 **Hybrid Teams: When Your Best Colleague Is an Agent**
@@ -21,17 +26,20 @@ In the near future, most services will be consumed by agents, not people. Organi
 | Date | Event | Topic |
 |------|-------|-------|
 | 25 Nov 2026 | [Sourcing International Circle of Excellence](https://sourcing-international.org), Vienna | Frontira x Sourcing International (agenda tbd) |
+| 1 Oct 2026 | Internet Summit Austria 2026, Vienna | Breakout session: Vertrauen wir den Bots? Wie wir als Gesellschaft mit Disruption umgehen können. |
+
+## Past
+
+| Date | Event | Topic |
+|------|-------|-------|
+| 19 Jun 2026 | VDI/VDE Innovation + Technik, Berlin | Agentic AI keynote and advisory session |
+| 18 Jun 2026 | [AI Agents Summit 2026](https://luma.com/ai-agents-summit-2026?tk=5JhfBs), Berlin | State of the Agentic Economy: What Changed in 12 Months (Opening keynote) |
 | 17 Jun 2026 | [LSZ IT Leaders Experience](https://lsz.at/kongress/it-leaders-experience-waidhofen), Waidhofen an der Ybbs | Vom Prompt zum Agenten: Wie AI neue Umsetzungskapazität in Unternehmen schafft (Workshop with Tobias Höllwarth) |
 | 11 Jun 2026 | [Cloud-Community Public-Administration #6](https://sourcing-international.org/news/5-cloud-community-public-administration), Vienna | Der Weg zur agentischen Organisation (with T. Höllwarth, Sourcing International) |
 | 9 Jun 2026 | [RTR / KommAustria: Alte Stärken, neue Mächte](https://www.rtr.at), Vienna | Agentic AI and the Future of Infrastructure (Keynote) |
 | 3 Jun 2026 | [FFG / TAFTIE Networking Workshop](https://taftie.eu/academy-2/), Vienna | The AI-Beer Nvidia Use Case: AI Disrupting Innovation Agency's Business Model? (Keynote) |
 | 22 May 2026 | [Creative Catalyst Aperture](https://viennaup.com), Vienna | Speaker + Mentoring Session (MuseumsQuartier, ViennaUP) |
 | 21 May 2026 | [ClawCon #2 ViennaUP Edition](https://viennaup.com), Vienna | Lightning Talk (Speaker, Prisma by Lumia) |
-
-## Past
-
-| Date | Event | Topic |
-|------|-------|-------|
 | 6 May 2026 | [DDIM Operations-KI Gruppe](https://ddim.de), Online | Frontira Presentation |
 | 4 May 2026 | [TokenMade](https://tokenmade.ai), Hamburg | Live Demo (Winner, eve of OMR Festival) |
 | 22 Apr 2026 | [Austrian Leading Sights Workshop](https://www.austrianleadingsights.at), Familypark St. Margarethen | AI and Agentic Systems for Tourism (Workshop) |
