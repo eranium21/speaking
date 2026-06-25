@@ -26,6 +26,7 @@ In the near future, most services will be consumed by agents, not people. Organi
 | Date | Event | Topic |
 |------|-------|-------|
 | 25 Nov 2026 | [Sourcing International Circle of Excellence](https://sourcing-international.org), Vienna | Frontira x Sourcing International (agenda tbd) |
+| 19 Nov 2026 | [TourismFastForward 2026](https://www.tourismfastforward.com/), Europahaus Mayrhofen | Keynote: KI-Transformation im Tourismus |
 | 1 Oct 2026 | Internet Summit Austria 2026, Vienna | Breakout session: Vertrauen wir den Bots? Wie wir als Gesellschaft mit Disruption umgehen können. |
 
 ## Past
