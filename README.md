@@ -27,7 +27,11 @@ In the near future, most services will be consumed by agents, not people. Organi
 |------|-------|-------|
 | 25 Nov 2026 | [Sourcing International Circle of Excellence 2026](https://www.sourcing-international.org/events/circle-of-excellence-2026), Vienna | Agentic AI in der Umsetzung: Was heute wirklich passiert |
 | 19 Nov 2026 | [TourismFastForward 2026](https://www.tourismfastforward.com/speaker/stefan-erschwendner/), Europahaus Mayrhofen | Keynote: Wenn KI ins Handeln kommt: Was Agentic AI im Tourismus verändert |
+| 22 Oct 2026 | DIH-West Forum: KI & Zukunft strategisch nutzen, Wirtschaftskammer Salzburg | Von Zukunftsbildern zu konkreten Projekten (Impulse talk + panel) |
+| 15 Oct 2026 | SPAR ICS GenAI HUB AI Days, Salzburg / hybrid | Keynote: Agentic AI and Lobster Lager |
+| 2 Oct 2026 | [re:publica Vienna 2026](https://vienna.re-publica.com/), Kulturhaus Brotfabrik | KI und die Zukunft der Filmproduktion (Impulse talk + masterclass) |
 | 1 Oct 2026 | Internet Summit Austria 2026, Vienna | Breakout session: Vertrauen wir den Bots? Wie wir als Gesellschaft mit Disruption umgehen können. |
+| 22 Sep 2026 | Jobiqo Connect 2026, Vienna | Keynote: Mehr Wirkung mit kleineren Teams: Wie Agentic AI Verlagsgruppen verändert |
 | 18 Sep 2026 | [KI. Und jetzt?](https://www.strategieaustria.at/events/ki-und-jetzt), Tabakfabrik Linz | Agentic AI: When Software Becomes Abundant (Keynote + panel) |
 
 ## Past
@@ -49,5 +53,5 @@ In the near future, most services will be consumed by agents, not people. Organi
 | 22 Apr 2026 | [Austrian Leading Sights Workshop](https://www.austrianleadingsights.at), Familypark St. Margarethen | Quality and complaint management: AI-supported approaches (Panel) |
 | 26 Mar 2026 | [Strategie Austria](https://www.strategieaustria.at/events/ki-arbeitsalltag-jetzt-wirds-ernst), Vienna | AI and the Future of Work (Keynote + Panel) |
 | 18 Mar 2026 | [NVIDIA GTC 2026](https://www.nvidia.com/en-us/on-demand/session/gtc26-s81595/), San Jose | AI agents in real world value chains |
-| 30 Jan 2026 | [ClawCon Vienna](https://openclaws.io/blog/clawcon-vienna) | Agentic AI beyond the terminal |
+| 10 Feb 2026 | [ClawCon Vienna](https://luma.com/event/evt-ji2TtD8FS9gmBV3), Prisma by Lumia | Beer brewed with OpenClaw (Lightning talk) |
 | 11 Sep 2025 | [DDIM.regional München](https://ddim.de/events/ddim-regional-muenchen-11-september-2025/), Munich | KI & Automatisierung: Vom Hype zum Impact (with Dr. Torsten Pedit, Salzwelten) |
