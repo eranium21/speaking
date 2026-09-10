@@ -29,6 +29,7 @@ In the near future, most services will be consumed by agents, not people. Organi
 | 19 Nov 2026 | [TourismFastForward 2026](https://www.tourismfastforward.com/speaker/stefan-erschwendner/), Europahaus Mayrhofen | Keynote: Wenn KI ins Handeln kommt: Was Agentic AI im Tourismus verändert |
 | 22 Oct 2026 | DIH-West Forum: KI & Zukunft strategisch nutzen, Wirtschaftskammer Salzburg | Von Zukunftsbildern zu konkreten Projekten (Impulse talk + panel) |
 | 15 Oct 2026 | SPAR ICS GenAI HUB AI Days, Salzburg / hybrid | Keynote: Agentic AI and Lobster Lager |
+| 11 Oct 2026 | [LSZ CIO Kongress 2026](https://lsz.at/kongress/cio-kongress-loipersdorf), Congress Loipersdorf | Speaker (Sunday session; topic TBA) |
 | 2 Oct 2026 | [re:publica Vienna 2026](https://vienna.re-publica.com/), Kulturhaus Brotfabrik | KI und die Zukunft der Filmproduktion (Impulse talk + masterclass) |
 | 1 Oct 2026 | Internet Summit Austria 2026, Vienna | Breakout session: Vertrauen wir den Bots? Wie wir als Gesellschaft mit Disruption umgehen können. |
 | 22 Sep 2026 | Jobiqo Connect 2026, Vienna | Keynote: Mehr Wirkung mit kleineren Teams: Wie Agentic AI Verlagsgruppen verändert |
