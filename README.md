@@ -32,13 +32,13 @@ In the near future, most services will be consumed by agents, not people. Organi
 | 11 Oct 2026 | [LSZ CIO Kongress 2026](https://lsz.at/kongress/cio-kongress-loipersdorf), Congress Loipersdorf | Speaker (Sunday session; topic TBA) |
 | 2 Oct 2026 | [re:publica Vienna 2026](https://vienna.re-publica.com/), Kulturhaus Brotfabrik | KI und die Zukunft der Filmproduktion (Impulse talk + masterclass) |
 | 1 Oct 2026 | Internet Summit Austria 2026, Vienna | Breakout session: Vertrauen wir den Bots? Wie wir als Gesellschaft mit Disruption umgehen können. |
-| 22 Sep 2026 | Jobiqo Connect 2026, Vienna | Keynote: Mehr Wirkung mit kleineren Teams: Wie Agentic AI Verlagsgruppen verändert |
-| 18 Sep 2026 | [KI. Und jetzt?](https://www.strategieaustria.at/events/ki-und-jetzt), Tabakfabrik Linz | Agentic AI: When Software Becomes Abundant (Keynote + panel) |
 
 ## Past
 
 | Date | Event | Topic |
 |------|-------|-------|
+| 22 Sep 2026 | [Jobiqo Connect 2026](https://www.jobiqo.com/de/jobiqo-connect-2026/), Vienna | Operations: KI effektiv nutzen (Keynote) |
+| 18 Sep 2026 | [KI. Und jetzt?](https://www.strategieaustria.at/events/ki-und-jetzt), Tabakfabrik Linz | Agentic AI: When Software Becomes Abundant (Keynote + panel) |
 | 19 Jun 2026 | [VDI/VDE Innovation + Technik](https://www.vdivde-it.de/), Berlin | Agentic AI keynote and advisory session |
 | 18 Jun 2026 | [AI Agents Summit 2026](https://ai-agents-summit.com/), Berlin | State of the Agentic Economy: What Changed in 12 Months (Opening keynote) |
 | 18 Jun 2026 | [Triff KI](https://www.good-school.de/), Online | Lobster Lager & Team (Talk + Q&A) |
