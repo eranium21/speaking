@@ -29,6 +29,7 @@ I am Managing Partner at [Frontira](https://frontira.com), a custom software stu
 |------|-------|-------|
 | 22 Oct 2026 | [DIH-West Forum](https://www.fh-salzburg.ac.at/fhs/aktuelles/veranstaltungen?cHash=09b58a975bd7e47b5772b6d54b5152b2&tx_news_pi1%5Baction%5D=detail&tx_news_pi1%5Bcontroller%5D=News&tx_news_pi1%5Bnews%5D=6468), Salzburg | Don't Automate the Past: Wie Agentic Business Engineering Arbeit mit maßgeschneiderter Software neu gestaltet (impulse talk + panel) |
 | 13 Oct 2026 | [DSC DACH 2026](https://dscdach.com/speakers/), online | From Prompt to Physical System: Designing Bounded Agentic Systems with Lobster Lager (90-minute tutorial with Gerhard Erschwendner) |
+| 12 Oct 2026 | [DigitalOcean Open Intelligence](https://www.digitalocean.com/open-intelligence-summit), San Francisco | Lobster Lager father-and-son talk with Gerhard Erschwendner (Workshop Day 0; DigitalOcean event edition served at the 13 Oct reception) |
 | 11 Oct 2026 | [LSZ CIO Kongress 2026](https://lsz.at/kongress/cio-kongress-loipersdorf), remote from San Francisco | Live interview with Martina Kruber on the CIO role, application capacity and AI adoption |
 | 22 Sep 2026 | [Jobiqo Connect 2026](https://www.jobiqo.com/de/jobiqo-connect-2026/), Vienna | Operations: KI effektiv nutzen (Keynote) |
 | 18 Sep 2026 | [KI. Und jetzt?](https://www.strategieaustria.at/events/ki-und-jetzt), Tabakfabrik Linz | Agentic AI: When Software Becomes Abundant (Keynote + panel) |
