@@ -1,42 +1,33 @@
 # Speaking
 
-I work at the intersection of AI, automation, and organisational design. At Frontira, my team and I build agentic systems for clients across Europe and advise leadership teams on what changes when agents become part of the workforce.
+I am Managing Partner at [Frontira](https://frontira.com), a custom software studio. My talks draw on building agentic applications with clients and on [Lobster Lager](https://www.lobsterlager.com/keynote), the brewing project I started with my father Gerhard. I focus on how domain expertise becomes working software, and what ownership, evaluation and human oversight require when agents enter real operations.
 
-## Signature Keynote
+## Featured talk
 
-**Lobster Lager: When AI Agents Leave the Chat Window**
-A father-and-son keynote about the AI-brewed beer that reached NVIDIA GTC, TED, and 30+ international media outlets, and what it teaches about Agentic Business Engineering.
+**When Coding Agents Leave the IDE: Building Software That Runs a Real World Business** — [AI Coding Summit NYC 2026](https://gitnation.com/events/ai-coding-summit-nyc/talks). A practical look at brewOS: turning brewing expertise into executable workflow state while keeping physical decisions with people.
 
 ## Topics
 
-**Hybrid Teams: When Your Best Colleague Is an Agent**
-Humans and AI agents working side by side in daily delivery. How tasks, communication, and decisions change when half your team never sleeps, and what leaders need to get right to make it work.
-
-**Agentic Business Engineering**
-Agents are not just rewriting code, they are rewriting org charts. How agentic systems change the way organisations are designed, how work is funded, and where competitive advantage actually lives.
-
-**Agentic Business Transformation**
-Stop renting AI. Start owning it. How organisations close the gap between using AI and building with AI. A technology stack, a governance model, and citizen engineers who ship real agents into production. The companies that build this capability now will compound advantages the rest can never catch.
-
-**Service as an API: Building for an Agent-First World**
-In the near future, most services will be consumed by agents, not people. Organisations that turn what they do into programmable interfaces will thrive. The rest will become invisible.
+- **Agentic Business Engineering:** Redesigning work around custom applications, domain expertise and clear decision rights.
+- **Application Capacity:** How teams learn to understand, build, embed and scale AI in their own workflows.
+- **Coding agents beyond prototypes:** Bounded tools, visible state, checkpoints, recovery and human ownership in real operations.
+- **Lobster Lager:** A father-and-son story about an AI-assisted brewing system, a real product and what the case reveals about agentic engineering.
 
 ## Upcoming
 
 | Date | Event | Topic |
 |------|-------|-------|
-| 25 Nov 2026 | [Sourcing International Circle of Excellence 2026](https://www.sourcing-international.org/events/circle-of-excellence-2026), Vienna | Agentic AI in der Umsetzung: Was heute wirklich passiert |
+| 19 Nov 2026 | [AI Coding Summit NYC](https://gitnation.com/events/ai-coding-summit-nyc/talks), online | When Coding Agents Leave the IDE: Building Software That Runs a Real World Business (prerecorded talk) |
 | 19 Nov 2026 | [TourismFastForward 2026](https://www.tourismfastforward.com/speaker/stefan-erschwendner/), Europahaus Mayrhofen | Keynote: Wenn KI ins Handeln kommt: Was Agentic AI im Tourismus verändert |
-| 22 Oct 2026 | DIH-West Forum: KI & Zukunft strategisch nutzen, Wirtschaftskammer Salzburg | Von Zukunftsbildern zu konkreten Projekten (Impulse talk + panel) |
-| 15 Oct 2026 | SPAR ICS GenAI HUB AI Days, Salzburg / hybrid | Keynote: Agentic AI and Lobster Lager |
-| 11 Oct 2026 | [LSZ CIO Kongress 2026](https://lsz.at/kongress/cio-kongress-loipersdorf), Congress Loipersdorf | Speaker (Sunday session; topic TBA) |
-| 2 Oct 2026 | [re:publica Vienna 2026](https://vienna.re-publica.com/), Kulturhaus Brotfabrik | KI und die Zukunft der Filmproduktion (Impulse talk + masterclass) |
-| 1 Oct 2026 | Internet Summit Austria 2026, Vienna | Breakout session: Vertrauen wir den Bots? Wie wir als Gesellschaft mit Disruption umgehen können. |
+| 25 Nov 2026 | [Sourcing International Circle of Excellence 2026](https://www.sourcing-international.org/events/circle-of-excellence-2026), Vienna | Agentic AI in der Umsetzung: Was heute wirklich passiert |
+| 6 Mar 2027 | KIM 2027, Salzburg | Vom Prompt zur Produktion: Was Lobster Lager über Agentic AI und die Zukunft der Arbeit zeigt (invited solo keynote; joint father-and-son format proposed) |
 
 ## Past
 
 | Date | Event | Topic |
 |------|-------|-------|
+| 22 Oct 2026 | [DIH-West Forum](https://www.fh-salzburg.ac.at/fhs/aktuelles/veranstaltungen?cHash=09b58a975bd7e47b5772b6d54b5152b2&tx_news_pi1%5Baction%5D=detail&tx_news_pi1%5Bcontroller%5D=News&tx_news_pi1%5Bnews%5D=6468), Salzburg | Don't Automate the Past: Wie Agentic Business Engineering Arbeit mit maßgeschneiderter Software neu gestaltet (impulse talk + panel) |
+| 11 Oct 2026 | [LSZ CIO Kongress 2026](https://lsz.at/kongress/cio-kongress-loipersdorf), remote from San Francisco | Live interview with Martina Kruber on the CIO role, application capacity and AI adoption |
 | 22 Sep 2026 | [Jobiqo Connect 2026](https://www.jobiqo.com/de/jobiqo-connect-2026/), Vienna | Operations: KI effektiv nutzen (Keynote) |
 | 18 Sep 2026 | [KI. Und jetzt?](https://www.strategieaustria.at/events/ki-und-jetzt), Tabakfabrik Linz | Agentic AI: When Software Becomes Abundant (Keynote + panel) |
 | 19 Jun 2026 | [VDI/VDE Innovation + Technik](https://www.vdivde-it.de/), Berlin | Agentic AI keynote and advisory session |
