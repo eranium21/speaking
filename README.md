@@ -19,7 +19,7 @@ I am Managing Partner at [Frontira](https://frontira.com), a custom software stu
 |------|-------|-------|
 | 3 Nov 2026 | [HORIZONT Werbewirkungsgipfel Austria](https://www.werbewirkungsgipfel.at/programm), The Social Hub Vienna | Die Künstliche Intelligenz, die Bier braut (closing keynote with Gerhard Erschwendner, 16:50) |
 | 5 Nov 2026 | [code.talks 2026](https://codetalks.com/), Hamburg | Lobster Lager: A Coding Agent, a Bluetooth Brewery, and What One Successful Batch Did Not Prove (Stage 4, 15:40–16:00 CET; 20 minutes including Q&A) |
-| 19 Nov 2026 | [AI Coding Summit NYC](https://gitnation.com/events/ai-coding-summit-nyc/talks), online | When Coding Agents Leave the IDE: Building Software That Runs a Real World Business (prerecorded talk) |
+| 19 Nov 2026 | [AI Coding Summit NYC](https://gitnation.com/events/ai-coding-summit-nyc/talks) | When Coding Agents Leave the IDE: Building Software That Runs a Real World Business (prerecorded talk) |
 | 19 Nov 2026 | [TourismFastForward 2026](https://www.tourismfastforward.com/speaker/stefan-erschwendner/), Europahaus Mayrhofen | Keynote: Wenn KI ins Handeln kommt: Was Agentic AI im Tourismus verändert |
 | 25 Nov 2026 | [Sourcing International Circle of Excellence 2026](https://www.sourcing-international.org/events/circle-of-excellence-2026), Vienna | Agentic AI in der Umsetzung: Was heute wirklich passiert |
 | 6 Mar 2027 | KIM 2027, Salzburg | Vom Prompt zur Produktion: Was Lobster Lager über Agentic AI und die Zukunft der Arbeit zeigt (invited solo keynote; joint father-and-son format proposed) |
