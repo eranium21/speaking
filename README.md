@@ -23,6 +23,7 @@ I am Managing Partner at [Frontira](https://frontira.com), a custom software stu
 | 19 Nov 2026 | [TourismFastForward 2026](https://www.tourismfastforward.com/speaker/stefan-erschwendner/), Europahaus Mayrhofen | Keynote: Wenn KI ins Handeln kommt: Was Agentic AI im Tourismus verändert |
 | 25 Nov 2026 | [Sourcing International Circle of Excellence 2026](https://www.sourcing-international.org/events/circle-of-excellence-2026), Vienna | Agentic AI in der Umsetzung: Was heute wirklich passiert |
 | 26 Nov 2026 | [OMX 2026 / Online Expert Days](https://app.oxd.at/agenda/omx-s62?via=fuer-dich), Salzburg | Earned Reach ohne Mediabudget. Wie eine kleine Brauerei in die NVIDIA Keynote und zu TED kam (MainStage, 10:15–10:50) |
+| 16 Jan 2027 | [TEDxWHU 2027](https://www.tedxwhu.com/), Vallendar | Agentic Business Engineering through the Lobster Lager story (talk title to be confirmed) |
 | 6 Mar 2027 | KIM 2027, Salzburg | Vom Prompt zur Produktion: Was Lobster Lager über Agentic AI und die Zukunft der Arbeit zeigt (invited solo keynote; joint father-and-son format proposed) |
 
 ## Past
